@@ -1,1 +1,1 @@
-Implement neural network training pipeline - 2026-4-3 16:45:00
+Add evaluation metrics module (RMSE, MAE, MAPE) - 2026-6-23 14:00:00
