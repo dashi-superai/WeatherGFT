@@ -1,1 +1,1 @@
-Add attention mechanisms for long-term dependencies - 2026-4-8 10:30:00
+Initial commit with working baseline model - 2026-6-23 19:15:00
