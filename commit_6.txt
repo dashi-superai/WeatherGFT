@@ -1,1 +1,1 @@
-Add GRU model for precipitation prediction - 2026-4-1 13:45:00
+Implement LSTM model architecture for temperature - 2026-6-23 10:15:00
