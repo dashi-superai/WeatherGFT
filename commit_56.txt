@@ -1,1 +1,1 @@
-Add model quantization for edge deployment - 2026-4-30 11:30:00
+Add U-Net for weather map segmentation - 2026-6-25 19:00:00
