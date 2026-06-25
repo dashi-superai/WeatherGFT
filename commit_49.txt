@@ -1,1 +1,1 @@
-Implement model explainability with LIME - 2026-4-25 14:20:00
+Implement physics-informed neural networks - 2026-6-25 13:45:00
