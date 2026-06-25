@@ -1,1 +1,1 @@
-Implement graph neural networks for weather station networks - 2026-4-23 15:55:00
+Implement GCN for spatial dependencies - 2026-6-25 10:45:00
