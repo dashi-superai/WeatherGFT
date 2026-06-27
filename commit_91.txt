@@ -1,1 +1,1 @@
-Implement physics-informed neural networks - 2026-5-20 14:10:00
+Add feature selection with Genetic Algorithms - 2026-6-27 15:30:00
