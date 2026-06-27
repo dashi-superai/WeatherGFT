@@ -1,1 +1,1 @@
-Implement normalizing flows for probability estimation - 2026-5-19 15:45:00
+Add polynomial features for non-linearity - 2026-6-27 14:00:00
