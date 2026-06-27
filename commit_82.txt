@@ -1,1 +1,1 @@
-Add model compression techniques (Pruning, Quantization) - 2026-5-15 09:25:00
+Implement Fourier features for seasonality - 2026-6-27 08:45:00
