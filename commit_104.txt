@@ -1,1 +1,1 @@
-Add Eformer for efficient attention mechanisms - 2026-5-28 09:30:00
+Implement weight initialization experiments - 2026-6-28 12:00:00
