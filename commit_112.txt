@@ -1,1 +1,1 @@
-Add TFT for interpretable temporal fusion transformers - 2026-6-2 09:45:00
+Implement model compression evaluation - 2026-6-28 18:00:00
