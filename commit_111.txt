@@ -1,1 +1,1 @@
-Implement N-BEATS for basis expansion forecasting - 2026-6-1 16:00:00
+Add knowledge distillation experiments - 2026-6-28 17:15:00
