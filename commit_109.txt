@@ -1,1 +1,1 @@
-Implement SCINet for sample convolution and interaction - 2026-5-30 13:50:00
+Add model pruning techniques - 2026-6-28 15:45:00
