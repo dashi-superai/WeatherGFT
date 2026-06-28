@@ -1,1 +1,1 @@
-Add PatchTST for patch-based time series forecasting - 2026-5-29 11:40:00
+Implement batch normalization optimization - 2026-6-28 13:30:00
