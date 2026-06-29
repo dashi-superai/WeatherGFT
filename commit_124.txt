@@ -1,1 +1,1 @@
-Add MICN for multi-scale convolutional networks - 2026-6-9 10:40:00
+Add batch prediction endpoint - 2026-6-29 14:00:00
