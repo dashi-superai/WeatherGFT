@@ -1,0 +1,1 @@
+Add security headers and CORS - 2026-7-4 16:30:00
